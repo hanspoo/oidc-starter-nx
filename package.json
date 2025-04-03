@@ -3,10 +3,14 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {},
-  "private": true,
+  "private": false,
+  "author": "Hans Poo <hans@welinux.cl>",
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "daisyui": "^5.0.12",
     "react": "19.0.0",
     "react-dom": "19.0.0",
+    "react-oidc-context": "^3.3.0",
     "react-router-dom": "6.29.0"
   },
   "devDependencies": {
