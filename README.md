@@ -18,6 +18,8 @@ This is a sample starter for a react project:
 
 ## Quick start
 
+(quick video)[https://www.youtube.com/watch?v=NVn1Ewt2t7M]
+
 ```
 git clone https://github.com/hanspoo/oidc-starter-nx
 cd oidc-starter-nx/
