@@ -2,7 +2,9 @@
   "name": "@oidc-starter-nx/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "dev": "nx serve front"
+  },
   "private": false,
   "author": "Hans Poo <hans@welinux.cl>",
   "dependencies": {
